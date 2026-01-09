@@ -2,7 +2,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 
-public class GeneralTest {
+public class SanityTest {
 
     @BeforeClass
     public void setupSanityTest() {
